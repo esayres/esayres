@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Elijah Sayres
 
-💻 Computer Science Student @ University of California, Irvine
-🚀 Passionate about building, learning, and solving real problems
-🌱 Currently exploring: **Data Structures, Cybersecurity, AI, and Backend**
+* 💻 Computer Science Student @ University of California, Irvine
+* 🚀 Passionate about building, learning, and solving real problems
+* 🌱 Currently exploring: **Data Structures, Cybersecurity, AI, and Backend**
 
 ---
 
