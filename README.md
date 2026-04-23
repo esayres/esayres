@@ -9,8 +9,10 @@
 ## ⚙️ Tech Stack
 
 ```bash
-Languages:   Python, C++, JavaScript  
-Tools:       Git, Linux, VS Code  
+Languages: Python, Javascript, Typescript, C++, SQL
+Backend & Cloud: Firebase/Google Cloud, Supabase, RESTful APIs, Serverless Architecture
+AI: PyTorch, TensorFlow, CLIP, Hugging Face
+Frontend: React, React Native
 ```
 
 ---
