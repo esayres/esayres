@@ -22,8 +22,8 @@ Frontend: React, React Native
 Here are a few things I’ve worked on:
 
 * 🔹 **VisionQuery** – Semantic image search tool using CLIP that retrieves images from natural language queries.
+* 🔹 **AVC Scheduler MCP Server** – A comprehensive course planning and schedule generation system built as an MCP (Model Context Protocol) server for Antelope Valley College
 * 🔹 **Photo To Ascii** – Converts a PNG or JPG/JPEG into ASCII Characters in a text file
-* 🔹 **Game Show Website** – Interactive web game where users guess YouTube video view counts using real-time API data.
 
 ---
 
